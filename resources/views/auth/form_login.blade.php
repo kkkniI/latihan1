@@ -3,7 +3,7 @@
 @section('content')
 <body>
 
-    <h1>tes form</h1>
+    <h1>tes promm</h1>
 </body>
 
 @endsection
